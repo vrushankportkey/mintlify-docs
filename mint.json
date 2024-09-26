@@ -52,6 +52,10 @@
     {
       "name": "Changelog",
       "url": "https://new.portkey.ai/"
+    }, 
+    {
+      "name": "Reports",
+      "url": "reports"
     }
   ],
   "navigation": [
@@ -583,6 +587,27 @@
         "docs/support/common-errors-and-resolutions",
         "docs/support/portkeys-december-migration",
         "docs/support/changelog"
+      ]
+    },
+    {
+      "group": "Reports",
+      "pages": [
+        {
+          "group": "Optimizing LLM Costs & Improving Gen AI Performance: A Comprehensive Guide",
+          "pages": [
+            "reports/optimizing-llm-costs/executive-summary",
+            "reports/optimizing-llm-costs/introduction",
+            "reports/optimizing-llm-costs/llm-cost-drivers",
+            "reports/optimizing-llm-costs/frugalgpt-techniques",
+            "reports/optimizing-llm-costs/advanced-strategies",
+            "reports/optimizing-llm-costs/architectural-considerations",
+            "reports/optimizing-llm-costs/operational-best-practices",
+            "reports/optimizing-llm-costs/cost-effective-development",
+            "reports/optimizing-llm-costs/user-education",
+            "reports/optimizing-llm-costs/future-trends",
+            "reports/optimizing-llm-costs/conclusion-and-key-takeaways"
+          ]
+        }
       ]
     }
   ],
